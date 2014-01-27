@@ -1,4 +1,4 @@
-jsDojo [![Build Status](https://travis-ci.org/mateusfreira/jsDojo.png?branch=master)](https://travis-ci.org/mateusfreira/jsDojo) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+jsDojo [![Build Status](https://travis-ci.org/mateusfreira/dojoTreinamento.png?branch=master)](https://travis-ci.org/mateusfreira/jsDojo) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 ======
 
 Repositório base coding dojo js
